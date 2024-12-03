@@ -1,0 +1,8 @@
+{
+  "editor.fontFamily": "\"VictorMono Nerd Font\"",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "trailing-spaces.trimOnSave": true,
+  "files.trimTrailingWhitespace": true
+}
