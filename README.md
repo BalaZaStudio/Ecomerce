@@ -51,13 +51,13 @@ Para ejecutar esta tienda online en tu máquina local, sigue estos pasos:
 1. **Clona este repositorio**:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/Balazastudio/Ecomerce.git
     ```
 
 2. **Instala las dependencias**:
 
     ```bash
-    cd tu_repositorio
+    cd Ecomerce
     npm install
     ```
 
