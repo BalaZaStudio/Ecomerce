@@ -1,4 +1,4 @@
-.. App Music Player documentation master file
+
 
 Welcome to la documentación de la tienda online
 ================================================
