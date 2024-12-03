@@ -1,0 +1,9 @@
+# Configuración para Read the Docs
+version: 2
+
+sphinx:
+  configuration: docs/conf.py # Ruta al archivo conf.py de Sphinx
+
+python:
+  install:
+    - requirements: requirements.txt # Instalar dependencias desde requirements.txt
