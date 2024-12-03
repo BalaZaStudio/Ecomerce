@@ -1,9 +1,13 @@
-# Configuración para Read the Docs
 version: 2
 
-sphinx:
-  configuration: docs/conf.py # Ruta al archivo conf.py de Sphinx
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.12"
 
 python:
   install:
-    - requirements: requirements.txt # Instalar dependencias desde requirements.txt
+    - requirements: requirements.txt
+
+sphinx:
+  configuration: docs/conf.py
