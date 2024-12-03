@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente de una **Tienda Online** diseñada para facilitar la compra de PCs de sobremesa, móviles, notebooks y televisores. Desarrollada utilizando **HTML**, **CSS** y **JavaScript**, la aplicación proporciona una experiencia de compra intuitiva y moderna.
 
-![Tienda Online](https://www.ejemplo.com/imagen-de-tiempo.png)
+![Tienda Online](https://github.com/BalaZaStudio/Image-ScreenShot/blob/main/image-6.png)
 
 ---
 
